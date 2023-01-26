@@ -42,7 +42,8 @@ plt.show()
 
 ```
 ## Output
-![univariate](https://user-images.githubusercontent.com/119405070/214240073-e6720577-8ba6-4115-945b-6c10a5a04df4.png)
+![univariate1](https://user-images.githubusercontent.com/119405070/214748220-44f5e599-c9df-4f73-ae5b-670314dc7a95.png)
+
 
 
 
